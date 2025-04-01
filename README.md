@@ -6,7 +6,7 @@ This repository contains all research files for my master's thesis on Quality of
 
 ## Repository Structure
 
-- /METHOD/ - Anything related to the method, files that describe the resarch method
+- /METHOD/ - Anything related to the method, files that describe the research method
 - /DATA/ - Data gathered, interviews, images, audios, videos,
 - /INSPIRATION/ - resources, books, academic papers, etc
 - /OUTPUT/ - Final thesis
