@@ -1,10 +1,10 @@
-# Masters' thesis research repository
+# Master's thesis research repository
 
 This repository contains all research files for my master's thesis on Quality of Life Updates as Privacy Concerns, researching how modern digital interfaces are designed to erode the privacy of users, under the guise of convenience.
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 - /METHOD/ - Anything related to the method, files that describe the resarch method
 - /DATA/ - Data gathered, interviews, images, audios, videos,
@@ -13,7 +13,7 @@ This repository contains all research files for my master's thesis on Quality of
 
 ---
 
-# Work in Progress
+## Work in Progress
 
 This is an active research repository that will be updated regularly as the thesis develops.
 
