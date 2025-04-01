@@ -1,0 +1,4 @@
+# Git ignore for my thesis research repository
+
+# Ignore the macos files
+.DS_Store
